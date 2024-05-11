@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hướng dẫn bật ghi log truy vấn SQL trên PostgreSQL
+categories: tutorial
 ---
 # Guide to enable SQL query logging (PostgreSQL)
 
