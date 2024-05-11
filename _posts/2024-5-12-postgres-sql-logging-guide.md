@@ -13,7 +13,7 @@ Trong quá trình research các lỗ hổng, đặc biệt đối với các l�
 
 Việc cần làm là thay đổi cấu hình trong file `postgresql.conf`, có thể xác định vị trí của file này bằng query trong PosgreSQL:
 
-![Untitled](Guide%20to%20enable%20SQL%20query%20logging%20(PostgreSQL)%20a086c00ed2404348a280babdb19dc648/Untitled.png)
+![Untitled](../images/Guide%20to%20enable%20SQL%20query%20logging%20(PostgreSQL)%20a086c00ed2404348a280babdb19dc648/Untitled.png)
 
 Vị trí thường gặp của file config này trên các OS như sau:
 
@@ -68,7 +68,7 @@ Sau đó khởi tạo container: `docker-compose up -d`
 
 Kết quả
 
-![Untitled](Guide%20to%20enable%20SQL%20query%20logging%20(PostgreSQL)%20a086c00ed2404348a280babdb19dc648/Untitled%201.png)
+![Untitled](../images/Guide%20to%20enable%20SQL%20query%20logging%20(PostgreSQL)%20a086c00ed2404348a280babdb19dc648/Untitled%201.png)
 
 DB đã ghi lại mọi query được thực thi, từ đây researcher có thể dễ dàng theo dõi các hành vi bất thường của ứng dụng do mình gây ra 😎
 
