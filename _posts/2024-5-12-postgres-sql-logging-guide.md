@@ -3,12 +3,7 @@ layout: post
 title: Hướng dẫn bật ghi log truy vấn SQL trên PostgreSQL
 categories: tutorial
 ---
-# Guide to enable SQL query logging (PostgreSQL)
-
-Status: Drafting
-Language: Vietnamese
-Visuals: No
-Type of content: Blog, Research
+# Hướng dẫn bật ghi log truy vấn SQL trên DBMS (PostgreSQL)
 
 ### Mở đầu
 
