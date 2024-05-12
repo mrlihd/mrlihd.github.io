@@ -6,7 +6,7 @@
 name: mrlihd's blog
 
 # Short bio or description (displayed in the header)
-description: Security dude
+description: A security dude
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/77404450?s=96&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: mrlihd
   instagram:
-  linkedin: linhhoang295
+  # linkedin: linhhoang295
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
