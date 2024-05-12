@@ -4,8 +4,6 @@ title: Hướng dẫn bật ghi log truy vấn SQL trên DBMS (PostgreSQL)
 categories: tutorial
 ---
 
-### Mở đầu
-
 Trong quá trình research các lỗ hổng, đặc biệt đối với các lỗ hổng SQLi thì việc log lại mọi query được ứng dụng thực thi là rất quan trọng để theo dõi các bất thường trong quá trình xử lý. Hôm nay mình sẽ chia sẻ cách để cấu hình PostgreSQL logging trên một vài môi trường thường gặp.
 
 ### Windows/Linux
