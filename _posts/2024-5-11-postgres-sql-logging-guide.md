@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Hướng dẫn bật ghi log truy vấn SQL trên PostgreSQL
+title: Hướng dẫn bật ghi log truy vấn SQL trên DBMS (PostgreSQL)
 categories: tutorial
 ---
-# Hướng dẫn bật ghi log truy vấn SQL trên DBMS (PostgreSQL)
 
 ### Mở đầu
 
